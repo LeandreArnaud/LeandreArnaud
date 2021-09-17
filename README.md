@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Léandre Arnaud <br/><br/>
+# 👋 Hi, I’m Léandre <br/><br/>
 
 ### What I do?
 - Freelance Data Scientist 👨‍🔬
