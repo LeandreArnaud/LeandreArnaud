@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Léandre <br/><br/>
+# 👋 Hi, I’m [Léandre](https://leandrearnaud.github.io) <br/><br/>
 
 ### What I do?
 - Freelance Data Scientist 👨‍🔬
@@ -21,4 +21,6 @@
 ### 🇫🇷🇬🇧 How to reach me?
 - [GitHub](https://github.com/LeandreArnaud)
 - [LinkedIn](https://www.linkedin.com/in/leandre-arnaud/)
+- [My Website](https://leandrearnaud.github.io)
 - [Email](mailto:pro.leandre.arnaud@gmail.com)
+
