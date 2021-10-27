@@ -1,8 +1,8 @@
 # 👋 Hi, I’m [Léandre](https://leandrearnaud.github.io) <br/><br/>
 
 ### What I do?
-- Freelance Data Scientist 👨‍🔬
-- OpenClassrooms Mentor 👨‍🏫
+- Full Stack Developer and Data Scientist 👨‍🔬
+- OpenClassrooms Data Scientist Mentor 👨‍🏫
 - Volontary Firefighter 👨‍🚒
 
 ### I'm Also interested in
