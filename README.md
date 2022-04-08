@@ -11,6 +11,7 @@
 - React Native developement 📱
 - Web developement 🖥️
 - Video making 🎥
+- Airplane simulation ✈️
 - Sciences🔬
 - Environement 🌎
 - Electronics 🤖
